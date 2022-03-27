@@ -15,6 +15,7 @@ def smallest_subarray_with_given_sum(s,array):
         return 0
     else:
         return min_length
+    
 
 
 print("Smallest subarray length: " + str(smallest_subarray_with_given_sum(7, [2, 1, 5, 2, 3, 2])))
