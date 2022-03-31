@@ -72,5 +72,4 @@ def main():
     print('Permutation exist: ' + str(find_string("bcdxabcdy", "bcdyabcdx")))
     print('Permutation exist: ' + str(find_string("aaacb", "abc")))
 
-
 main()
